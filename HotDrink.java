@@ -22,7 +22,6 @@ public class HotDrink {
     public String toString() {
         return "HotDrink{" +
                 "name='" + name + "'" +
-                ", volume=" + volume +
-                '}';
+                ", volume=" + volume + "}";
     }
 }
