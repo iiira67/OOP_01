@@ -17,7 +17,6 @@ public class HotDrinkWithTemperature extends HotDrink {
         return "HotDrinkWithTemperature{" +
                 "name='" + getName() + "'" +
                 ", volume=" + getVolume() +
-                ", temperature=" + temperature +
-                '}';
+                ", temperature=" + temperature + "}";
     }
 }
